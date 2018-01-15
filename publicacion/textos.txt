@@ -3,21 +3,13 @@ Título: GUÍA OFICIAL DE LA LUISIANA
 
 Descripción breve:
 
-Con la Aplicación “Guía Oficial de La Luisiana”, ¡llevarás La Luisiana en tu bolsillo!
+Con la “Guía Oficial de La Luisiana”, ¡llevarás La Luisiana en tu bolsillo!
 
 Descripción completa:
 
-
-
-Con la Aplicación “Guía Oficial de La Luisiana”, llevarás La Luisiana en Tú Bolsillo!
-
-Es una aplicación desarrollada por el Ayuntamiento de La Luisiana y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+Ésta es una aplicación desarrollada por el Ayuntamiento de La Luisiana y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
 
 La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de La Luisiana desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bello pueblo.
-
-Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil. Consultar el horario del bus, localizar y llamar a los teléfonos de urgencias y emergencias, centros de salud, restaurantes, colegios, guarderías, supermercados, organismos públicos, bancos, localizar cajeros automáticos, asociaciones, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, monumentos y demás lugares de interés.
-
-La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
 
 El término municipal de La Luisiana está situado en la parte oriental de la provincia de Sevilla y forma parte de la comarca natural de "La Campiña Sevillana". Salvo una pequeña parte que linda al norte con el término de Cañada Rosal y al oeste con Fuentes de Andalucía, el término de La Luisiana limita con el término de Écija por todos sus puntos cardinales, lo que denota su artificial configuración que data de la época moderna. Está inserto en lo que actualmente se denomina "Campiña de Écija".
 Su superficie total es de 42 kilómetros cuadrados y su situación está comprendida entre la longitud 37º 38´40´´- 37º 31´15´´ y la latitud 5º 17´8´´- 5º 10´10´´. La altitud máxima es de 178 metros y la mínima es de 135 metros, el núcleo de La Luisiana está a 168 metros y el de El Campillo a 173 metros. El núcleo de La Luisiana se encuentra a una distancia de 69 kilómetros de la capital de la provincia (Sevilla) y a 15 kilómetros de la ciudad cabecera de la comarca (Écija), llegándose a ambas por medio de la autovía de Andalucía.
