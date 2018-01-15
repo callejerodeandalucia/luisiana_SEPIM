@@ -1,24 +1,35 @@
-TÃ­tulo (30)
-===========
+Título: GUÍA OFICIAL DE LA LUISIANA
 
-DescripciÃ³n breve (80)
-======================
 
-DescripciÃ³n completa (4000)
-===========================
+Descripción breve:
 
-Etiquetas	
-===========
+Con la Aplicación “Guía Oficial de La Luisiana”, ¡llevarás La Luisiana en tu bolsillo!
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Descripción completa:
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
 
-Sitio web
-=========
 
-Correo electrÃ³nico
-==================
+Con la Aplicación “Guía Oficial de La Luisiana”, llevarás La Luisiana en Tú Bolsillo!
 
+Es una aplicación desarrollada por el Ayuntamiento de La Luisiana y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de La Luisiana desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bello pueblo.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil. Consultar el horario del bus, localizar y llamar a los teléfonos de urgencias y emergencias, centros de salud, restaurantes, colegios, guarderías, supermercados, organismos públicos, bancos, localizar cajeros automáticos, asociaciones, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, monumentos y demás lugares de interés.
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+
+El término municipal de La Luisiana está situado en la parte oriental de la provincia de Sevilla y forma parte de la comarca natural de "La Campiña Sevillana". Salvo una pequeña parte que linda al norte con el término de Cañada Rosal y al oeste con Fuentes de Andalucía, el término de La Luisiana limita con el término de Écija por todos sus puntos cardinales, lo que denota su artificial configuración que data de la época moderna. Está inserto en lo que actualmente se denomina "Campiña de Écija".
+Su superficie total es de 42 kilómetros cuadrados y su situación está comprendida entre la longitud 37º 38´40´´- 37º 31´15´´ y la latitud 5º 17´8´´- 5º 10´10´´. La altitud máxima es de 178 metros y la mínima es de 135 metros, el núcleo de La Luisiana está a 168 metros y el de El Campillo a 173 metros. El núcleo de La Luisiana se encuentra a una distancia de 69 kilómetros de la capital de la provincia (Sevilla) y a 15 kilómetros de la ciudad cabecera de la comarca (Écija), llegándose a ambas por medio de la autovía de Andalucía.
+ 
+Hay que hacer especial hincapie en su Fundación. Ya que el pasado 5 de julio,  las Nuevas Poblaciones de Sierra Morena y Andalucía cumplieron el 250 aniversario de la promulgación del Fuero de Población por el que fueron fundadas. Y por ello los 16 municipios que comparten tan singular origen fundacional se disponen a celebrar su efeméride.
+Dicho así, parece a priori tratarse sencillamente de un señalado y simultáneo cumpleaños, sin embargo, la intención, los objetivos y los fines con los que estos pueblos fueron creados por el Gobierno Ilustrado del Rey Carlos III, así como por las vicisitudes tan peculiares y únicas con las que nacieron, merecen trascender lo que sería una fiesta de cumpleaños para ser una conmemoración que aglutine y haga honor a toda la verdadera dimensión de aquel Gran Proyecto para la reforma económica y social de España.
+
+A finales del siglo XVIII, el Rey Carlos III, ayudado por sus ministros, ordena siguiendo las corrientes ilustradas que dominan Europa, la fundación de Nuevas Poblaciones en las áreas más despobladas de Sierra Morena y Andalucía. Así encarga a un aventurero alemán, Juan Gaspar de Thurriegel, la recluta de colonos centroeuropeos para que pueblen estas zonas, que son, a saber, las Nuevas Poblaciones de La Carolina, La Carlota y La Luisiana y nombra Intendente General de las mismas a un político e intelectual ilustrado, el Peruano Don Pablo de Olavide y Jáuregui.
+
+Los primeros colonos, que empezaron a llegar a finales de 1768 y principios de 1769, procedían mayoritariamente del Nordeste de Francia y Sudoeste de Alemania, y en menor medida de Bélgica, Holanda, Suiza, Austria e Italia.
+
+La Nueva Población de La Luisiana, fue fundada como tal en 1769 en el camino real de Andalucía, en un paraje conocido como "Venta Quemada", que se hallaba inserto en el llamado "desierto de la Monclova". La colonia estaba formada por La Luisiana, como cabecera de la colonia, y las aldeas de El Campillo, Los Motillos, actualmente desaparecida, y Cañada Rosal.
+
+
+¡Visita La Luisiana!
